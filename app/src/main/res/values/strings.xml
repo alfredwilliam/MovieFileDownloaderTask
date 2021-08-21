@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieFileDownloaderTask</string>
+    //Messages
+    <string name="connection_error">Connection Error</string>
+    <string name="error_occurred">Server error</string>
+    <string name="download">Download</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="falseUI">false</string>
+    <string name="trueUI">true</string>
+</resources>

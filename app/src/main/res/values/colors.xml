@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_700">#0267BA</color>
+    <color name="green_400">#479802</color>
+    <color name="green_200">#69A833</color>
+    <color name="yellow_700">#D79E1F</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_700">#C92285</color>
+    <color name="colorBottomNav">#3399ED</color>
+    <color name="colorBlueBottomNav">#48A8F6</color>
+</resources>
